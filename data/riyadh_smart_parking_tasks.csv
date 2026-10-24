@@ -1,0 +1,41 @@
+task_id,task_name,phase,milestone,owner,priority,start_date,end_date,percent_complete,budget_planned_sar,budget_actual_sar
+RSP-001,Stakeholder workshops with Riyadh municipality,1. Discovery & Planning,False,Sara Al-Otaibi,Medium,2026-05-03,2026-05-12,100,45000,42700
+RSP-002,Parking demand study (Olaya & King Fahd Rd),1. Discovery & Planning,False,Khalid Al-Mutairi,High,2026-05-11,2026-05-24,100,80000,67500
+RSP-003,Requirements specification,1. Discovery & Planning,False,Omar Al-Ghamdi,High,2026-05-16,2026-05-27,100,40000,44600
+RSP-004,Vendor selection for IoT sensors,1. Discovery & Planning,False,Ahmed Al-Qahtani,Medium,2026-05-24,2026-06-02,100,25000,21900
+RSP-005,Project charter signed off,1. Discovery & Planning,True,Lina Al-Zahrani,High,2026-06-03,2026-06-05,100,10000,13700
+RSP-006,User personas & journey maps,2. UX / UI Design,False,Noura Al-Shehri,Low,2026-05-28,2026-06-04,100,30000,24300
+RSP-007,Arabic / English bilingual UI kit,2. UX / UI Design,False,Omar Al-Ghamdi,Medium,2026-05-31,2026-06-11,100,55000,51000
+RSP-008,High-fidelity mobile mockups,2. UX / UI Design,False,Khalid Al-Mutairi,High,2026-06-07,2026-06-20,100,60000,55300
+RSP-009,Usability testing round 1,2. UX / UI Design,False,Ahmed Al-Qahtani,Low,2026-06-17,2026-06-23,100,35000,29500
+RSP-010,Design freeze,2. UX / UI Design,True,Noura Al-Shehri,High,2026-06-24,2026-06-25,100,8000,9100
+RSP-011,Cloud architecture & landing zone,3. Backend & APIs,False,Omar Al-Ghamdi,Medium,2026-06-16,2026-06-25,100,90000,88500
+RSP-012,Parking availability API,3. Backend & APIs,False,Ahmed Al-Qahtani,Low,2026-06-22,2026-07-09,85,120000,117300
+RSP-013,Booking & reservation service,3. Backend & APIs,False,Reem Al-Dosari,Medium,2026-07-02,2026-07-21,100,140000,134200
+RSP-014,Admin portal for operators,3. Backend & APIs,False,Lina Al-Zahrani,High,2026-07-11,2026-07-26,60,95000,58000
+RSP-015,Absher / Nafath SSO integration,3. Backend & APIs,False,Faisal Al-Harbi,Medium,2026-07-21,2026-08-01,100,70000,99100
+RSP-016,Backend MVP ready,3. Backend & APIs,True,Lina Al-Zahrani,High,2026-08-02,2026-08-03,100,10000,9300
+RSP-017,Pilot sensor install (500 bays),4. IoT Sensor Integration,False,Lina Al-Zahrani,Low,2026-07-29,2026-08-18,90,260000,230200
+RSP-018,Sensor gateway & MQTT pipeline,4. IoT Sensor Integration,False,Sara Al-Otaibi,Low,2026-08-10,2026-08-23,100,85000,92200
+RSP-019,Real-time occupancy engine,4. IoT Sensor Integration,False,Khalid Al-Mutairi,Low,2026-08-17,2026-09-01,70,110000,87900
+RSP-020,Sensor calibration in summer heat,4. IoT Sensor Integration,False,Reem Al-Dosari,Low,2026-08-27,2026-09-05,95,45000,44700
+RSP-021,Live occupancy feed,4. IoT Sensor Integration,True,Noura Al-Shehri,High,2026-09-06,2026-09-07,100,10000,10100
+RSP-022,iOS app build,5. Mobile App,False,Noura Al-Shehri,High,2026-09-03,2026-10-02,100,180000,146100
+RSP-023,Android app build,5. Mobile App,False,Reem Al-Dosari,Low,2026-09-16,2026-10-15,100,175000,199600
+RSP-024,Map & navigation to free bay,5. Mobile App,False,Ahmed Al-Qahtani,Medium,2026-10-02,2026-10-19,100,90000,119100
+RSP-025,Push notifications & reminders,5. Mobile App,False,Noura Al-Shehri,Medium,2026-10-10,2026-10-19,100,40000,35200
+RSP-026,Beta app on TestFlight / Play,5. Mobile App,True,Sara Al-Otaibi,High,2026-10-20,2026-10-22,100,12000,10000
+RSP-027,mada & Apple Pay integration,6. Payments,False,Faisal Al-Harbi,Medium,2026-10-18,2026-10-31,60,85000,75400
+RSP-028,SADAD bill payment for fines,6. Payments,False,Noura Al-Shehri,Low,2026-10-28,2026-11-08,0,60000,0
+RSP-029,ZATCA e-invoicing compliance,6. Payments,False,Faisal Al-Harbi,Medium,2026-11-04,2026-11-13,0,55000,0
+RSP-030,Payments certified,6. Payments,True,Khalid Al-Mutairi,High,2026-11-14,2026-11-15,0,10000,0
+RSP-031,Automated regression suite,7. Testing & QA,False,Omar Al-Ghamdi,Medium,2026-11-09,2026-11-22,0,70000,0
+RSP-032,Load testing (100k concurrent users),7. Testing & QA,False,Reem Al-Dosari,High,2026-11-17,2026-11-24,0,50000,0
+RSP-033,Security & penetration testing,7. Testing & QA,False,Noura Al-Shehri,Low,2026-11-24,2026-12-03,0,95000,0
+RSP-034,User acceptance testing with operators,7. Testing & QA,False,Ahmed Al-Qahtani,Medium,2026-11-29,2026-12-10,0,45000,0
+RSP-035,Go-live readiness review,7. Testing & QA,True,Ahmed Al-Qahtani,High,2026-12-11,2026-12-12,0,10000,0
+RSP-036,Marketing campaign (Riyadh Season),8. Launch,False,Reem Al-Dosari,Medium,2026-12-08,2026-12-28,0,150000,0
+RSP-037,App store submission,8. Launch,False,Faisal Al-Harbi,High,2026-12-20,2026-12-24,0,8000,0
+RSP-038,Operator training,8. Launch,False,Sara Al-Otaibi,Low,2026-12-24,2026-12-30,0,30000,0
+RSP-039,Hypercare support,8. Launch,False,Sara Al-Otaibi,Medium,2026-12-29,2027-01-18,0,60000,0
+RSP-040,Public launch,8. Launch,True,Noura Al-Shehri,High,2027-01-19,2027-01-19,0,15000,0
